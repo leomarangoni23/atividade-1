@@ -7,3 +7,5 @@ git commit -m "comentario"
 
 git pull
 git push origin main
+
+git remote add origin
